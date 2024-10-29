@@ -9,7 +9,7 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 
 ## Algorithm
 1. Importing Necessary Liberaries
-2. Data Readimg and Preprocessing
+2. Data Reading and Preprocessing
 3. Importing K-means algorithm from SKleearn.model
 4. Ploting the Clusters
 
